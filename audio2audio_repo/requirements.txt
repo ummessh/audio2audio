@@ -1,0 +1,8 @@
+streamlit
+transformers
+torchaudio
+soundfile
+pydub
+evaluate
+datasets
+TTS
